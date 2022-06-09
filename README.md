@@ -1,7 +1,7 @@
 # Práctica 2
 ## Creación básica de entorno de ejecución de Azure Machine Learning
 
-![Logo](Imagenes\Nub8-Machine-Learning-With-Azure-2.jpg)
+![Logo](https://github.com/AngelAlbertoCT/Creacion-basica-Azure-Machine-Learning/blob/main/Imagenes/Nub8-Machine-Learning-With-Azure-2.jpg)
 
 En esta práctica se aprende a crear unentorno de ejecución de Azure Machine Learning. Se utilizarán las herramientas que nos proporciona Azure desde la página http://portal.azure.com/ .
 
