@@ -11,7 +11,7 @@ Lo primero será ingresar al [portal de Azure](http://portal.azure.com/) con nue
 
 Para crear un área de trabajo nueva, podemos buscar en la barra del buscador **Azure Machine Learning** o bien seleccionarlo desde la página inicial en el apartado de **Servicios de Azure**. Ahí nos mandará a la siguiente pantalla:
 
-![Imgaml]([Imagenes\Imagen2.png](https://github.com/AngelAlbertoCT/Creacion-basica-Azure-Machine-Learning/blob/main/Imagenes/Imagen2.png))
+![Imgaml](https://github.com/AngelAlbertoCT/Creacion-basica-Azure-Machine-Learning/blob/main/Imagenes/Imagen2.png)
 
 Presionaremos el botón **crear** para crear nuestro grupo de recursos. Hay que recordar que los requisitos mínimos que se necesitan para crear un recurso en Azure es:
 * Una suscripción en Azure
